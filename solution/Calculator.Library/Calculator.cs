@@ -8,6 +8,14 @@ namespace Calculo.Calculator.Library
 {
     public class Calculator
     {
+        public static bool Test(bool val)
+        {
+            if (val)
+            {
+                return true;
+            }
 
+            return false;
+        }
     }
 }
