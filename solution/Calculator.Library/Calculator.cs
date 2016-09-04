@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Calculo.Calculator.Library
 {
-    public class Class1
+    public class Calculator
     {
+
     }
 }
