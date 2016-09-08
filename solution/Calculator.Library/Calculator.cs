@@ -8,6 +8,13 @@ namespace Calculo.Calculator.Library
 {
     public class Calculator
     {
+        public static double Add(double a, double b)
+        {
+            return a + b;
+        }
+
+
+
         public static bool Test(bool val)
         {
             if (val)
