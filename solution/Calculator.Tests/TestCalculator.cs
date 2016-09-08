@@ -10,6 +10,8 @@ namespace Calculo.Calculator.Tests
         public void TestMethod1()
         {
             Assert.IsTrue(Calculator.Library.Calculator.Test(true));
+
+            Assert.IsFalse(Calculator.Library.Calculator.Test(false));
         }
     }
 }
