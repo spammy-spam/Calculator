@@ -1,4 +1,0 @@
-language: csharp
-solution: solution/Calculator.sln
-mono:
-  - latest
