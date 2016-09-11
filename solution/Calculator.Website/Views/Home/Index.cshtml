@@ -19,7 +19,7 @@
     using (Html.BeginForm("index", "Home", FormMethod.Post))
     {
 
-        <input type="text" name="sum" />
+        <input type="text" value="@Html.Raw(Model?.Sum)" name="sum" />
         <input type="submit" name="submit" value="Submit" />
     }
 }
