@@ -62,6 +62,10 @@
       <Project>{45b19dce-b18a-4ba5-99e1-2d35cc67ea20}</Project>
       <Name>Calculator.Website</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Evaluant.Calculator\NCalc.csproj">
+      <Project>{5f014003-50d8-49e0-8afe-91d38dccc97c}</Project>
+      <Name>NCalc</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
