@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQ0UxdyjXmE2J92qeiqa4FwAAAAACAAAAAAAQZgAAAAEAACAAAABa+E73eTkICWqq+HHmKJdnhLFMkThACbhpz6qdp1bMtgAAAAAOgAAAAAIAACAAAAAm1dAdas2ZPa+LlVHPNXvtVB9M3oZ1sH4fEXl//A0owyAAAABJd9biB2+Xkr/xnEUSN79O7VY3EssRKd0bnlIawp+AH0AAAACLLHc0GKgcFXZS/RqRwLy3acHaZ0x8w/0rqTc+RpM82zvkT5Ae7+iQnc44D5QoZIKK7+B+qOflB+00V+OKc7ho</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ec2-52-35-135-253.us-west-2.compute.amazonaws.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="bin/Calculo.Calculator.Library.dll">
+      <publishTime>09/21/2016 11:19:43</publishTime>
+    </File>
+    <File Include="bin/Calculo.Calculator.Website.dll">
+      <publishTime>09/21/2016 11:19:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/21/2016 09:57:12</publishTime>
+    </File>
+    <File Include="bin/NCalc.dll">
+      <publishTime>09/21/2016 11:19:43</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/21/2016 09:57:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/21/2016 09:57:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/21/2016 09:57:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/21/2016 09:57:11</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="Views/Shared/layout.cshtml">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/21/2016 09:57:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/21/2016 11:23:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\moridrin\Documents\GitHub\Calculator\solution\Evaluant.Calculator\bin\Release\NCalc.dll
+C:\Users\moridrin\Documents\GitHub\Calculator\solution\Evaluant.Calculator\bin\Release\NCalc.pdb
+C:\Users\moridrin\Documents\GitHub\Calculator\solution\Evaluant.Calculator\bin\Release\Antlr3.Runtime.dll
+C:\Users\moridrin\Documents\GitHub\Calculator\solution\Evaluant.Calculator\obj\Release\NCalc.csprojResolveAssemblyReference.cache
+C:\Users\moridrin\Documents\GitHub\Calculator\solution\Evaluant.Calculator\obj\Release\NCalc.dll
+C:\Users\moridrin\Documents\GitHub\Calculator\solution\Evaluant.Calculator\obj\Release\NCalc.pdb

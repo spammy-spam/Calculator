@@ -123,6 +123,7 @@
     <Content Include="Views\Shared\layout.cshtml" />
     <None Include="Properties\PublishProfiles\Calc-dev.pubxml" />
     <None Include="Properties\PublishProfiles\Calculator-Dev.pubxml" />
+    <None Include="Properties\PublishProfiles\TeamCity_T1.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
