@@ -5,13 +5,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <WebPublishMethod>FileSystem</WebPublishMethod>
-    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
-    <LastUsedPlatform>Any CPU</LastUsedPlatform>
-    <SiteUrlToLaunchAfterPublish />
-    <LaunchSiteAfterPublish>True</LaunchSiteAfterPublish>
-    <ExcludeApp_Data>False</ExcludeApp_Data>
-    <publishUrl>http://www.dev.calculator.com/</publishUrl>
-    <DeleteExistingFiles>False</DeleteExistingFiles>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQ0UxdyjXmE2J92qeiqa4FwAAAAACAAAAAAAQZgAAAAEAACAAAABwphPRjBI8jFv932txHVLGlVqH4epIf+XPL7U0gnGc0QAAAAAOgAAAAAIAACAAAACGbffSRgfD9SGbe7Uga6QAuK/H2Az0IQxPSAeFhNgxcyAAAACLIhqHwxYzR/MtEga4KPAX0qS5ZvAG9Wx/QnK05XucxkAAAACiUiDXByvtzn9aBSF4UdWXP73CiOBOvwNoiW5RGvSv6X36UQiA6dGWvMV9bhW07msX515TJ3as4UcC/Z0LWAD8</EncryptedPassword>
   </PropertyGroup>
 </Project>
