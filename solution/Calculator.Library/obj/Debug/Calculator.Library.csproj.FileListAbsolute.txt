@@ -6,3 +6,11 @@ C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\bin\De
 C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\obj\Debug\Calculator.Library.csprojResolveAssemblyReference.cache
 C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\obj\Debug\Calculo.Calculator.Library.dll
 C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\obj\Debug\Calculo.Calculator.Library.pdb
+D:\Data\School\Calculator\solution\Calculator.Library\bin\Debug\Calculo.Calculator.Library.dll
+D:\Data\School\Calculator\solution\Calculator.Library\bin\Debug\Calculo.Calculator.Library.pdb
+D:\Data\School\Calculator\solution\Calculator.Library\bin\Debug\NCalc.dll
+D:\Data\School\Calculator\solution\Calculator.Library\bin\Debug\Antlr3.Runtime.dll
+D:\Data\School\Calculator\solution\Calculator.Library\bin\Debug\NCalc.pdb
+D:\Data\School\Calculator\solution\Calculator.Library\obj\Debug\Calculator.Library.csprojResolveAssemblyReference.cache
+D:\Data\School\Calculator\solution\Calculator.Library\obj\Debug\Calculo.Calculator.Library.dll
+D:\Data\School\Calculator\solution\Calculator.Library\obj\Debug\Calculo.Calculator.Library.pdb

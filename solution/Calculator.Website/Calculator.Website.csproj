@@ -126,7 +126,15 @@
       <DependentUpon>packages.config</DependentUpon>
       <IsTransformFile>True</IsTransformFile>
     </None>
+    <None Include="packages.Calculator-TST.config">
+      <DependentUpon>packages.config</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
     <None Include="packages.Debug.config">
+      <DependentUpon>packages.config</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <None Include="packages.Default Settings.config">
       <DependentUpon>packages.config</DependentUpon>
       <IsTransformFile>True</IsTransformFile>
     </None>
@@ -135,16 +143,13 @@
       <IsTransformFile>True</IsTransformFile>
     </None>
     <None Include="Properties\PublishProfiles\Calc-dev.pubxml" />
+    <None Include="Properties\PublishProfiles\Calculator-ACC.pubxml" />
     <None Include="Properties\PublishProfiles\Calculator-Dev.pubxml" />
     <Content Include="Properties\SlowCheetah\SlowCheetah.Transforms.targets" />
     <Content Include="Web.config">
       <TransformOnBuild>true</TransformOnBuild>
     </Content>
     <None Include="Properties\PublishProfiles\Calculator-TST.pubxml" />
-    <None Include="Web1.Calculator-Dev.config">
-      <DependentUpon>Web.config</DependentUpon>
-      <IsTransformFile>True</IsTransformFile>
-    </None>
     <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
