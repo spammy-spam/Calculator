@@ -145,6 +145,7 @@
       <DependentUpon>Web.config</DependentUpon>
       <IsTransformFile>True</IsTransformFile>
     </None>
+    <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
       <IsTransformFile>True</IsTransformFile>
