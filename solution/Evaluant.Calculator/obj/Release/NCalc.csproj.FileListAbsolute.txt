@@ -1,6 +1,0 @@
-D:\Data\School\Calculator\solution\Evaluant.Calculator\bin\Release\NCalc.dll
-D:\Data\School\Calculator\solution\Evaluant.Calculator\bin\Release\NCalc.pdb
-D:\Data\School\Calculator\solution\Evaluant.Calculator\bin\Release\Antlr3.Runtime.dll
-D:\Data\School\Calculator\solution\Evaluant.Calculator\obj\Release\NCalc.csprojResolveAssemblyReference.cache
-D:\Data\School\Calculator\solution\Evaluant.Calculator\obj\Release\NCalc.dll
-D:\Data\School\Calculator\solution\Evaluant.Calculator\obj\Release\NCalc.pdb

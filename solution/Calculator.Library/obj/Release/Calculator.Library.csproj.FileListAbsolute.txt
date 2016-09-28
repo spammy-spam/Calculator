@@ -1,8 +1,0 @@
-D:\Data\School\Calculator\solution\Calculator.Library\bin\Release\Calculo.Calculator.Library.dll
-D:\Data\School\Calculator\solution\Calculator.Library\bin\Release\Calculo.Calculator.Library.pdb
-D:\Data\School\Calculator\solution\Calculator.Library\bin\Release\NCalc.dll
-D:\Data\School\Calculator\solution\Calculator.Library\bin\Release\Antlr3.Runtime.dll
-D:\Data\School\Calculator\solution\Calculator.Library\bin\Release\NCalc.pdb
-D:\Data\School\Calculator\solution\Calculator.Library\obj\Release\Calculator.Library.csprojResolveAssemblyReference.cache
-D:\Data\School\Calculator\solution\Calculator.Library\obj\Release\Calculo.Calculator.Library.dll
-D:\Data\School\Calculator\solution\Calculator.Library\obj\Release\Calculo.Calculator.Library.pdb
