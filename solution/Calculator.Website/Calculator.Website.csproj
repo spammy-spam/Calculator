@@ -116,6 +116,33 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="parameters.Debug.xml">
+      <DependentUpon>parameters.xml</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <None Include="parameters.Release.xml">
+      <DependentUpon>parameters.xml</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <None Include="parameters.Calculator-TST.xml">
+      <DependentUpon>parameters.xml</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <None Include="parameters.Calculator-ACC.xml">
+      <DependentUpon>parameters.xml</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <None Include="parameters.Calculator-Dev.xml">
+      <DependentUpon>parameters.xml</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <None Include="parameters.Default Settings.xml">
+      <DependentUpon>parameters.xml</DependentUpon>
+      <IsTransformFile>True</IsTransformFile>
+    </None>
+    <Content Include="parameters.xml">
+      <TransformOnBuild>true</TransformOnBuild>
+    </Content>
     <Content Include="Views\web.config" />
     <Content Include="packages.config">
       <TransformOnBuild>true</TransformOnBuild>
