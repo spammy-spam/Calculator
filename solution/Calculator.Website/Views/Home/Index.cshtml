@@ -1,7 +1,7 @@
 ﻿@model Calculo.Calculator.Website.Models.Calculation
 
 @{
-    ViewBag.Title = "test title";
+    ViewBag.Title = "test title 1";
     Layout = "/Views/Shared/Layout.cshtml";
 }
 
@@ -18,7 +18,6 @@
 @{
     using (Html.BeginForm("index", "Home", FormMethod.Post))
     {
-
         <input type="text" value="@Html.Raw(Model?.Sum)" name="sum" />
         <input type="submit" name="submit" value="Submit" />
     }
