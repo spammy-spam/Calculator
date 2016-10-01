@@ -1,8 +1,0 @@
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\bin\Release\Calculo.Calculator.Library.dll
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\bin\Release\Calculo.Calculator.Library.pdb
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\bin\Release\NCalc.dll
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\bin\Release\Antlr3.Runtime.dll
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\bin\Release\NCalc.pdb
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\obj\Release\Calculator.Library.csprojResolveAssemblyReference.cache
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\obj\Release\Calculo.Calculator.Library.dll
-C:\Users\moridrin\Documents\GitHub\Calculator\solution\Calculator.Library\obj\Release\Calculo.Calculator.Library.pdb

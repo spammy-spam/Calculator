@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="Calculo Test" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\moridrin\\Documents\\GitHub\\Calculator\\solution\\Calculator\.Website\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\moridrin\\Documents\\GitHub\\Calculator\\solution\\Calculator\.Website\\obj\\Release\\Package\\PackageTmp$" />
-  </parameter>
-</parameters>
