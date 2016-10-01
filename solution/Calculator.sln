@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Website", "Calculator.Website\Calculator.Website.csproj", "{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}"
 EndProject
@@ -13,18 +13,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCalc", "Evaluant.Calculato
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Calculator-TST|Any CPU = Calculator-TST|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Deployment|Any CPU = Deployment|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Debug|Any CPU.Build.0 = Release|Any CPU
-		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Debug|Any CPU.Deploy.0 = Release|Any CPU
-		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Deployment|Any CPU.ActiveCfg = Deployment|Any CPU
-		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Deployment|Any CPU.Build.0 = Deployment|Any CPU
+		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Calculator-TST|Any CPU.ActiveCfg = Calculator-TST|Any CPU
+		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Calculator-TST|Any CPU.Build.0 = Calculator-TST|Any CPU
+		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Calculator-TST|Any CPU.Deploy.0 = Calculator-TST|Any CPU
+		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Deployment|Any CPU.ActiveCfg = Debug|Any CPU
 		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B19DCE-B18A-4BA5-99E1-2D35CC67EA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Calculator-TST|Any CPU.ActiveCfg = Calculator-TST|Any CPU
+		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Calculator-TST|Any CPU.Build.0 = Calculator-TST|Any CPU
+		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Calculator-TST|Any CPU.Deploy.0 = Calculator-TST|Any CPU
 		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Deployment|Any CPU.ActiveCfg = Deployment|Any CPU
@@ -32,12 +37,16 @@ Global
 		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Deployment|Any CPU.Deploy.0 = Deployment|Any CPU
 		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC297DD-A574-4A4E-A01A-8022DD17C03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Calculator-TST|Any CPU.ActiveCfg = Calculator-TST|Any CPU
+		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Calculator-TST|Any CPU.Build.0 = Calculator-TST|Any CPU
 		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Deployment|Any CPU.ActiveCfg = Deployment|Any CPU
 		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Deployment|Any CPU.Build.0 = Deployment|Any CPU
 		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB16BB4F-966A-4DB7-AC5C-F7083DB406F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F014003-50D8-49E0-8AFE-91D38DCCC97C}.Calculator-TST|Any CPU.ActiveCfg = Calculator-TST|Any CPU
+		{5F014003-50D8-49E0-8AFE-91D38DCCC97C}.Calculator-TST|Any CPU.Build.0 = Calculator-TST|Any CPU
 		{5F014003-50D8-49E0-8AFE-91D38DCCC97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5F014003-50D8-49E0-8AFE-91D38DCCC97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F014003-50D8-49E0-8AFE-91D38DCCC97C}.Deployment|Any CPU.ActiveCfg = Deployment|Any CPU
